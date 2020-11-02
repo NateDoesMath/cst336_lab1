@@ -13,7 +13,7 @@
     <body>
         
         <header>
-            <h1> Skwisgaar Skwigelf
+            <h1> About Nate Beal
         
         <hr>
         
@@ -22,26 +22,15 @@
             <a href="about.html"> About </a>
             <a href="contact.html"> Contact </a>
             <a href="aboutthewebdesigner.html"> About the Web Designer</a>
-           
         </nav>
+        
         </header>
+        
         <br /><br />
         
-        <main>
-            
-            <figure>
-                <img src="img/dethklokguitarist.png">
-            </figure>
-            
-            <div>
-                Hellos! <br />
-                <p>Welcomes to my website.</p>
-                
-                <p>I am lead guitarist of the most popular metal band on Earth called Dethklok.</p>
-                
-                <p>Feel free to contact me for guitar lessons</p>
-            </div>
-        </main>
+        <div id="content">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeTH4ikyZXAHsmeXgdNp0-r7BLQIFYBtdlrx6TCftMtfvKKjg/viewform?embedded=true" width="640" height="943" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        </div>
         
         <footer>
             <hr>

@@ -1,0 +1,71 @@
+body {
+    background-color:black;
+    color:red;
+}
+
+header, main, nav {
+    text-align: center;
+}
+
+footer {
+    text-align: left;
+    font-size: 0.8em;
+}
+
+nav a { /* links winthing "nav" container */
+    padding: 15px;
+    padding-bottom:4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: red;
+}
+
+nav a:hover {
+    border-bottom:2px red solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+main {
+    display: flex;
+}
+
+table {
+    margin: 0px auto;
+    background-color: red;
+    border: 1px solid black;
+}
+
+#table-header {
+    background-color:grey;
+}
+
+.table-row {
+    background-color: black;
+    color: red;
+}
+
+td {
+    padding-right: 10px;
+    font-size: 1.3em;
+    color: red;
+}
+
+td strong {
+    color: black;
+}
+
+ul {
+    width: 500px;
+    margin:0 auto;
+    text-align: left;
+}
+
+.hobby {
+    color: pink;
+}
+
+#me {
+    color: red;
+    text-align: left;
+}
