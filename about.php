@@ -18,10 +18,10 @@
         <hr>
         
         <nav>
-            <a href="index.html"> Home </a>
-            <a href="about.html"> About </a>
-            <a href="contact.html"> Contact </a>
-            <a href="aboutthewebdesigner.html"> About the Web Designer</a>
+            <a href="index.php"> Home </a>
+            <a href="about.php"> About </a>
+            <a href="contact.php"> Contact </a>
+            <a href="aboutthewebdesigner.php"> About the Web Designer</a>
         </nav>
         
         </header>
